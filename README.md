@@ -59,5 +59,36 @@
 
 ## 模块演示：
 
+### 客户端演示：
+
+### 注册登录模块
+![注册登录](https://github.com/StlfSunQiang/Images/blob/master/image/注册登录.png)
+
+### 个人主页模块
+![个人主页](https://github.com/StlfSunQiang/Images/blob/master/image/个人主页.png)
+
+### 视频首页模块
+![视频首页](https://github.com/StlfSunQiang/Images/blob/master/image/视频首页.png)
+
+### 视频详情模块
+![视频详情](https://github.com/StlfSunQiang/Images/blob/master/image/视频详情.png)
+
+### 选择背景音乐模块
+![选择背景音乐](https://github.com/StlfSunQiang/Images/blob/master/image/选择背景音乐.png)
+
+### 举报视频模块
+![举报视频](https://github.com/StlfSunQiang/Images/blob/master/image/举报视频.png)
+
+### 后台管理演示：
+
+### 用户管理模块
+![用户管理](https://github.com/StlfSunQiang/Images/blob/master/image/用户管理.png)
+
+### 背景音乐管理
+![背景音乐管理](https://github.com/StlfSunQiang/Images/blob/master/image/背景音乐管理.png)
+
+### 举报管理
+![举报管理](https://github.com/StlfSunQiang/Images/blob/master/image/举报管理.png)
+
 
 
