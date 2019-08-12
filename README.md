@@ -25,7 +25,7 @@
 
 3、持久层框架：MyBatis 3.4.5 + pagehelper 5.1.2
 
-4、MariaDB 10.2.6
+4、MySql 8.0.11
 
 5、数据库连接池：阿里巴巴 Druid 1.1.0
 
@@ -43,7 +43,7 @@
 
 2、持久层框架：MyBatis 3.2.8 + pagehelper 4.1.3
 
-3、MariaDB 10.2.6
+3、MySql 8.0.11
 
 4、数据库连接池：阿里巴巴 Druid 1.1.0
 
